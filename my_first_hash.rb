@@ -1,5 +1,5 @@
 def my_hash
-  my_hash = {"Samsung" => "Electronics manufacturer", "Intel" => ""}
+  my_hash = {"Samsung" => "Electronics manufacturer", "Intel" => "CPU type", "4k" => "Resolution"}
 
   
 end
